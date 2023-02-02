@@ -1,0 +1,2 @@
+hii the txt is from bash terminal
+, hello we are appending some text here
