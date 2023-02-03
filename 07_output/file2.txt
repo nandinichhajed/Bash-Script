@@ -1,0 +1,6 @@
+total 12
+-rw-rw-r-- 1 nandinichhajed nandinichhajed 282 Feb  3 12:20 file1.txt
+-rw-rw-r-- 1 nandinichhajed nandinichhajed   0 Feb  3 12:21 file2.txt
+-rwxrwxr-x 1 nandinichhajed nandinichhajed 277 Feb  3 12:21 output.sh
+-rw-rw-r-- 1 nandinichhajed nandinichhajed 212 Feb  3 12:18 s1.txt
+-rw-rw-r-- 1 nandinichhajed nandinichhajed   0 Feb  3 12:18 s2.txt

@@ -1,0 +1,4 @@
+total 4
+-rwxrwxr-x 1 nandinichhajed nandinichhajed 247 Feb  3 12:18 output.sh
+-rw-rw-r-- 1 nandinichhajed nandinichhajed   0 Feb  3 12:18 s1.txt
+-rw-rw-r-- 1 nandinichhajed nandinichhajed   0 Feb  3 12:18 s2.txt
